@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+**Our Suggestions **
+1. This task can also be accomplished using a calendar component.
+2. We can bind data to the calendar instead of creating a table.
+3. This will resemble Google Calendar's appearance.
+4. When we click on a specific date, we can display a popup with the data, and we can also edit that popup.
+5. In the popup, we can include a "Save" button, which will save the edited data.
